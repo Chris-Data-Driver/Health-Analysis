@@ -1,4 +1,5 @@
 # Health-Analysis
+![Alt text](Health dashboard.png)
 
 ## Introduction:
 The analysis spans across 10 different hospitals and involves 4 health insurance providers in the united states of America. 
