@@ -1,5 +1,5 @@
 # Health-Analysis
-![Alt text](Health dashboard.png)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 ## Introduction:
 The analysis spans across 10 different hospitals and involves 4 health insurance providers in the united states of America. 
