@@ -1,6 +1,5 @@
 # Health-Analysis
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-![Dashboard](Health-Analysis/Health dashboard.png)
+![Health Dashboard](https://github.com/Chris-Data-Driver/Health-Analysis/blob/main/Health%20dashboard.png)
 
 
 ## Introduction:
